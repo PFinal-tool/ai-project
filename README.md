@@ -2,6 +2,7 @@
 
 ![](https://raw.githubusercontent.com/pfinal-nc/iGallery/master/blog/20260210182200802.png)
 
+```
 ai-project/
 ├── start.sh                # 一键启动 tmux + agents
 ├── stop.sh                 # 安全关闭 session
@@ -25,3 +26,4 @@ ai-project/
 │
 └── notes/                  # 人类裁决 & 记录
     └── decisions.md
+```

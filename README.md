@@ -8,7 +8,6 @@ ai-project/
 ├── stop.sh                 # 安全关闭 session
 ├── README.md               # 项目目标（给人看）
 ├── context.md              # 项目统一上下文（给 AI）
-│
 ├── prompts/                # 角色 Prompt（最重要）
 │   ├── architect.md
 │   ├── researcher.md

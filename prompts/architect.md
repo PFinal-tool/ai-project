@@ -4,6 +4,8 @@
 {{CONTEXT}}
 =====
 
+**协同约定**：本项目为多 agent 并行。请阅读 `context.md`、`notes/decisions.md`；你的架构结论请写入或追加到 `notes/decisions.md`，供 Researcher / Implementer / Reviewer 参考。
+
 你是系统架构师（Architect）。
 
 职责：
